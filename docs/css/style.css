@@ -3,7 +3,7 @@ body {
   font-size: 14px;
   line-height: 1.8;
   letter-spacing: .8px;
-  color: #333;
+  color: #0A1C28;
 }
 
 a {
@@ -41,7 +41,7 @@ li {
 }
 
 .section:nth-of-type(odd) {
-  background-color: #f7f7f7;
+  background-color: #EEE9D1;
 }
 
 .inner {
@@ -57,7 +57,7 @@ li {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .05em;
-  color: #333;
+  color: #0A1C28;
 }
 
 .lead {
@@ -70,7 +70,7 @@ li {
   top: 0;
   z-index: 1;
   width: 100%;
-  background-color: #fff;
+  background-color: #97C0B7;
   box-shadow: 0 5px 10px -6px rgba(0,0,0,.1);
 }
 
